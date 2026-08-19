@@ -13,7 +13,7 @@ export default function Terms() {
         </Link>
 
         <h1 className="text-3xl font-bold mb-2">Terms of Service</h1>
-        <p className="text-gray-400 text-sm mb-10">Last updated: July 2026</p>
+        <p className="text-gray-400 text-sm mb-10">Last updated: August 2026</p>
 
         <div className="space-y-8 text-gray-300 leading-relaxed">
 
@@ -24,7 +24,7 @@ export default function Terms() {
 
           <section>
             <h2 className="text-white font-bold text-lg mb-3">2. What BodaGo Does</h2>
-            <p>BodaGo is a directory platform that connects customers with local motorbike riders. We do not provide transport or delivery services directly. We are not responsible for the conduct of riders or customers during a trip or delivery.</p>
+            <p>BodaGo is a directory platform that connects customers with local motorbike riders. We provide transport or delivery services directly. We are not responsible for the conduct of riders or customers during a trip BUT we are responsible for riders' conduct during a delivery.</p>
           </section>
 
           <section>
@@ -32,7 +32,8 @@ export default function Terms() {
             <ul className="list-disc list-inside space-y-2 text-gray-400">
               <li>BodaGo is free to use for customers</li>
               <li>Pricing is agreed directly between customer and rider</li>
-              <li>BodaGo is not responsible for disputes between customers and riders</li>
+              <li>BodaGo is not responsible for disputes between customers and riders for trips</li>
+               <li>BodaGo is responsible for disputes between customers and riders for food deliveries</li>
               <li>Always agree on price before starting a trip</li>
             </ul>
           </section>

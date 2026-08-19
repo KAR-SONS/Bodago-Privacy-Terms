@@ -13,7 +13,7 @@ export default function Privacy() {
         </Link>
 
         <h1 className="text-3xl font-bold mb-2">Privacy Policy</h1>
-        <p className="text-gray-400 text-sm mb-10">Last updated: July 2026</p>
+        <p className="text-gray-400 text-sm mb-10">Last updated: August 2026</p>
 
         <div className="space-y-8 text-gray-300 leading-relaxed">
 
@@ -24,7 +24,7 @@ export default function Privacy() {
 
           <section>
             <h2 className="text-white font-bold text-lg mb-3">2. Customer App</h2>
-            <p>The BodaGo customer app does not collect any personal information from customers. No account is required. Customers browse riders and contact them directly via their own phone or WhatsApp app. We do not store any customer data.</p>
+            <p>The BodaGo customer app does not collect any personal information from customers for trips but we collect emails and phone numbers for Deliveries. No account is required. Customers browse riders and contact them directly via their own phone or WhatsApp app. We do not store any customer data for trips but store customer details for deliveries.</p>
           </section>
 
           <section>
